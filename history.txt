@@ -1,0 +1,501 @@
+  125  telnet google.com
+  126  telnet https://google.com
+  127  telnet 8.8.8.8
+  128  telnet 193.29.38.58 7001
+  129  \
+  130  telnet 193.29.38.58 7001
+  131  curl 193.29.38.58 -P 7001
+  132  man curl
+  133  curl 193.29.38.58:7001
+  134  prod2
+  135  prod2
+  136  cd ~/Projects/Support/fss/trades/20190229
+  137  cd ~/Projects/Support/fss/trades/2019-02-29
+  138  cd ~/Projects/Support/fss/trades/2019-02-28
+  139  grep "9913028.1" ./
+  140  grep "9913028.1" ./*
+  141  cd to-redrop/
+  142  grep "9913028.1" ./*
+  143  grep "991285.0" ./*
+  144  prod1
+  145  telnet 193.29.38.58
+  146  telnet 193.29.38.58 7001
+  147  prod1
+  148  prod1
+  149  prod2
+  150  prod2
+  151  prod1
+  152  prod1
+  153  prod1
+  154  prod2
+  155  cd Downloads/
+  156  mkdir jafaryasin
+  157  cd jafaryasin/
+  158  git clone https://github.com/Kooltra/coding-challenge-jafaryasin
+  159  prod1
+  160  prod2
+  161  ssh -p 64537 54.210.150.133
+  162  cd Projects/
+  163  mkdir dev-interviews
+  164  cd dev
+  165  cd ../dev-interviews/
+  166  git clone https://github.com/Kooltra/coding-challenge-gratuz
+  167  cd coding-challenge-gratuz/
+  168  vi ~/.bash_profile 
+  169  prod1
+  170  cd ~/Projects/Core/
+  171  git lg
+  172  prod1
+  173  histpry
+  174  history
+  175  prod1
+  176  cd ~/Projects/
+  177  mkdir acceptance-tests-workshop
+  178  cd acceptance-tests-workshop/
+  179  git clone https://github.com/Kooltra/integration_tests
+  180  pwd
+  181  cd ..
+  182  rm -rf acceptance-tests-workshop/
+  183  cd ~/Projects/
+  184  mkdir learning-acceptance-tests-workshop
+  185  cd learning-acceptance-tests-workshop/
+  186  git clone git@github.com:Kooltra/integration_tests.git
+  187  prod1
+  188  prod1
+  189  open /Users/andriiloboda/Projects/Support/fss/trades/2019-04-02/to-redrop/
+  190  prod1
+  191  prod1
+  192  pwd
+  193  cd ~/Projects
+  194  mkdir code-challenge
+  195  cd code-challenge/
+  196  git clone git@github.com:Kooltra/coding-challenge-raminder-sodhi.git
+  197  pwd
+  198  git clone https://github.com/Kooltra/coding-challenge-arashbi
+  199  prod2
+  200  pwd
+  201  git clone https://github.com/Kooltra/coding-challenge-MariemGH
+  202  less ~/Downloads/vtt-2019-04-17-logs/var/log/web-1.log 
+  203  prod1
+  204  prod1
+  205  prod1
+  206  prod1
+  207  prod1
+  208  prod1
+  209  cd ~/Projects/dev-interviews/
+  210  git clone https://github.com/Kooltra/coding-challenge-alirezamortezai
+  211  ls
+  212  cd coding-challenge-alirezamortezai/
+  213  open .
+  214  prod1
+  215  ssh -p 64535 3.84.217.104
+  216  ssh -p 64536 3.80.86.211
+  217  ssh -p 64535 34.238.250.121
+  218  ssh -p 64535 34.238.250.121
+  219  ssh -p 64535 34.238.250.121
+  220  man tail
+  221  man head
+  222  man cat
+  223  man more
+  224  man more
+  225  man cp
+  226  prod1
+  227  prod2
+  228  prod2
+  229  prod2
+  230  prod2
+  231  prod2
+  232  prod1
+  233  prod2
+  234  prod2
+  235  prod2
+  236  prod2
+  237  open /Users/andriiloboda/Projects/credentials/pem-keys/
+  238  cd  /Users/andriiloboda/Projects/credentials/pem-keys/
+  239  ssh -i ryan.pem ec2-54-85-173-252.compute-1.amazonaws.com
+  240  ssh -i ryan.pem ubuntu@ec2-54-85-173-252.compute-1.amazonaws.com
+  241  prod2
+  242  prod2
+  243  /Library/PostgreSQL/10/scripts/runpsql.sh; exit
+  244  man lsof
+  245  man lsof
+  246  lsof -t -i:3000
+  247  lsof  -i:3000
+  248  man lsof
+  249  man lsof
+  250  /Library/PostgreSQL/10/scripts/runpsql.sh; exit
+  251  prod1
+  252  telnet 208.89.235.197 563
+  253  vi trace-route-currenex.log
+  254  open ,
+  255  open .
+  256  pwd
+  257  mv trace-route-currenex.log Downloads/
+  258  tracert 208.89.235.197 563
+  259  traceroute 208.89.235.197 563
+  260  traceroute 208.89.235.197 563
+  261  traceroute 208.89.235.197 563
+  262  pwd
+  263  cd Projects/code-challenge/
+  264  git clone https://github.com/Kooltra/coding-challenge-NK273610
+  265  git clone https://github.com/Kooltra/coding-challenge-hebe889900
+  266  prod2
+  267  /Library/PostgreSQL/10/scripts/runpsql.sh; exit
+  268  pwd
+  269  /Library/PostgreSQL/10/bin/pg_dumpall -U postgres --database=postgres
+  270  /Library/PostgreSQL/10/bin/pg_dumpall -U postgres --database=postgres > dump.sql
+  271  less dump.sql 
+  272  prod2
+  273  vi ~/.bash_profile 
+  274  vi ~/.bashrc 
+  275  ls | grep *.prop
+  276  pwd
+  277  cd .aws/
+  278  ls
+  279  less credentials 
+  280  less config 
+  281  cd ..
+  282  rm -rf .aws/
+  283  ls
+  284  prod1
+  285  prod2
+  286  less Downloads/postgres_public_integration.sql 
+  287  pg_dump
+  288  pwd
+  289  less Downloads/vtt-prod-logs-2019-05-21/var/log/web-1.log 
+  290  prod2
+  291  prod2
+  292  pwd
+  293  prod1
+  294  prod2
+  295  prod2
+  296  cd ~/Downloads/vtt-prod-logs-2019-05-21/var/log/web-1.error.log 
+  297  less ~/Downloads/vtt-prod-logs-2019-05-21/var/log/web-1.error.log 
+  298  less ~/Downloads/vtt-prod-logs-2019-05-21/var/log/web-1.log 
+  299  ssh ec2-3-88-130-116.compute-1.amazonaws.com
+  300  ssh ec2-54-205-87-62.compute-1.amazonaws.com
+  301  ssh -i ~/Projects/credentials/pem-keys/ryan.pem  ec2-54-205-87-62.compute-1.amazonaws.com
+  302  ssh -i ~/Projects/credentials/pem-keys/ryan.pem  ubuntu@ec2-54-205-87-62.compute-1.amazonaws.com
+  303  prod2
+  304  cd ~/Projects/vendor-trade-transformer/tmp/fix/file-logs/
+  305  ls
+  306  less FIX.4.4-atfxfixstp-CNX.messages.log 
+  307  pwd
+  308  cd /var/log/
+  309  ls -la
+  310  ls -la | fil*
+  311  ls -la | grep fil*
+  312  owd
+  313  pwd
+  314  mkdir file-logs
+  315  sudo mkdir file-logs
+  316  mkdir file-store
+  317  sudo mkdir file-store
+  318  chmod -R 777 file-store
+  319  sudo chmod -R 777 file-store
+  320  sudo chmod -R 777 file-logs/
+  321  ls -la
+  322  ls -la | grep fil*
+  323  ls -la file-*
+  324  cd file-logs/
+  325  ls
+  326  less FIX.4.4-atfxfixstp-CNX.messages.log 
+  327  pwd
+  328  cd ..
+  329  mkdir file-logs
+  330  cd file-
+  331  cd file-logs/
+  332  ls
+  333  less FIX.4.4-atfxfixstp-CNX.event.log 
+  334  less FIX.4.4-atfxfixstp-CNX.event.log 
+  335  pwd
+  336  cd ~/Projects/credentials/pem-keys/
+  337  cat ryan.pem | pbcopy
+  338  ls
+  339  less ~/Projects/vendor-trade-transformer/tmp/fix/file-logs/FIX.4.4-atfxfixstp-CNX.messages.log 
+  340  less ~/Projects/vendor-trade-transformer/tmp/fix/file-logs/FIX.4.4-atfxfixstp-CNX.event.log 
+  341  cd  ~/Projects/vendor-trade-transformer/tmp/fix/file-logs/
+  342  ls
+  343  ls | grep CNX
+  344  less FIX.4.4-atfxfixstp-CNX.messages.log 
+  345  cd /var/log/file-logs/
+  346  ls
+  347  less FIX.4.4-atfxfixstp-CNX.event.log 
+  348  less FIX.4.4-atfxfixstp-CNX.messages.log 
+  349  cd ~/tmp/
+  350  ls
+  351  pwd
+  352  ls
+  353  ls
+  354  ls
+  355  ls
+  356  ls
+  357  ls
+  358  ls
+  359  ls
+  360  cd fix/
+  361  ls
+  362  prod2
+  363  ssh -i ryan.pem ubuntu@ec2-54-205-87-62.compute-1.amazonaws.com
+  364  cd ~/.ssh/
+  365  ssh -i ryan.pem ubuntu@ec2-54-205-87-62.compute-1.amazonaws.com
+  366  ssh -i ryan.pem ubuntu@ec2-54-85-173-252.compute-1.amazonaws.com
+  367  pwd
+  368  exit
+  369  cd /var/log/vtt
+  370  cd /var/log/
+  371  man rm
+  372  cd ~/Downloads/vtt-test-logs
+  373  ls
+  374  rm BundleLogs-1558643691700.zip 
+  375  rm var/
+  376  rm -r var/
+  377  ls
+  378  cd ~/Downloads/vtt-test-experimental/
+  379  ls
+  380  cd var/
+  381  ls
+  382  cd log/
+  383  grep "application-logs" *
+  384  grep -R "application-logs" *
+  385  grep -R "" *
+  386  grep -R "create_log_file.config" *
+  387  less /var/log/cfn-init.log
+  388  cd .ssh/
+  389  cat ryan.pem 
+  390  cat id_rsa_andrii
+  391  cat id_rsa_andrii | pbcopy
+  392  cat id_rsa_andrii | pbcopy
+  393  cd ~/Projects/credentials/pem-keys/
+  394  cat aloboda.pem | pbcopy
+  395  less ~/Downloads/monsas-20190521-fix.log 
+  396  less ~/Downloads/monsas-20190521-fix.log 
+  397  prod2
+  398  prod2
+  399  less ~/.bash_profile 
+  400  less ~/.bash_profile 
+  401  prod2
+  402  less ~/.bash_profile 
+  403  less ~/Projects/credentials/AWS/admin/id_rsa_admin.pem
+  404  prod2
+  405  cd Do
+  406  cd Downloads/
+  407  vi empty_css.css
+  408  prod2
+  409  prod1
+  410  prod1
+  411  prod2
+  412  prod2
+  413  git lg
+  414  git push
+  415  git push origin
+  416  git push origin update-readme
+  417  git lg
+  418  git merge master
+  419  git push
+  420  git push origin update-readme
+  421  git lg
+  422  git checkout master
+  423  git push origin master
+  424  git lg
+  425  git lg
+  426  git merge update-readme
+  427  git lg
+  428  git push origin master
+  429  git lg
+  430  git rm  update-readme
+  431  git remove  update-readme
+  432  git branch -d  update-readme
+  433  git lg
+  434  git branch -d  origin/update-readme
+  435  git push origin  --delete update-readme
+  436  git lg
+  437  git lg
+  438  git add .
+  439  git commit -m "Update another-change-file: Update 1"
+  440  git lg
+  441  git reset --hard 0cd8829
+  442  pwd
+  443  git lg
+  444  git add another-change-file
+  445  git add another-change-file.txt 
+  446  git commit -m "Update another-change-file: Update 1"
+  447  git lg
+  448  git lg
+  449  git add another-change-file.txt 
+  450  git commit -m "Update another-change-file: Update 2"
+  451  git checgit lg
+  452  git lg
+  453  git checkout -b update-another-change-file
+  454  git lg
+  455  git checkout master
+  456  git lg
+  457  git reset --hard 0cd8829
+  458  git lg
+  459  git lg
+  460  git checkout update-another-change-file
+  461  git lg
+  462  git branch
+  463  git checkout master
+  464  git add another-change-file-2.txt 
+  465  git commit -m "Update another-change-file-2: Update 1"
+  466  git add another-change-file-2.txt 
+  467  git commit -m "Update another-change-file-2: Update 2"
+  468  git push origin master
+  469  git lg
+  470  git branch
+  471  git pull
+  472  git pull origin 
+  473  git pull origin master
+  474  git lg
+  475  git checkout update-another-change-file
+  476  git lg
+  477  git lg
+  478  git rebase master
+  479  git lg
+  480  git push -u origin update-another-change-file
+  481  git checkout master
+  482  git add another-change-file-4.txt 
+  483  git commit -am "another-change-file-4: Update 1"
+  484  git push
+  485  git push -u origin master 
+  486  git lg
+  487  git checkout update-another-change-file
+  488  git rebase master
+  489  git lg
+  490  history
+  491  git branch
+  492  git checkout master
+  493  git add another-change-file-4.txt 
+  494  git commit -am "another-change-file-4: Update 2"
+  495  git checkout update-another-change-file
+  496  git rebase master
+  497  git lg
+  498  git push
+  499  git lg
+  500  git push --force-with-lease
+  501  git lg
+  502  git lg
+  503  git add another-change-file-4.txt 
+  504  git commit -am "another-change-file-4: Update 3"
+  505  git add another-change-file-4.txt 
+  506  git commit -am "another-change-file-4: Update 4"
+  507  git lg
+  508  git add another-change-file-4.txt 
+  509  git commit -am "another-change-file-4: Update 5"
+  510  git lg
+  511  git lg
+  512  git rebase -i ccbf71b
+  513  git lg
+  514  git lg
+  515  git rebase -i ccbf71b
+  516  git lg
+  517  git rebase -i ccbf71b
+  518  git lg
+  519  git rebase -i ccbf71b
+  520  git lg
+  521  git add another-change-file-4.txt 
+  522  git commit -am "another-change-file-4: Using fix up - beginning"
+  523  git commit -am "another-change-file-4: Using fix up - real implementation"
+  524  git add another-change-file-4.txt 
+  525  git lg
+  526  git commit --fixup 09b8ca7
+  527  git lg
+  528  git add another-change-file-4.txt 
+  529  git commit --fixup :/real
+  530  git lg
+  531  git add README.md 
+  532  git commit -am "Update Readme again:
+"
+  533  git lg
+  534  git lg
+  535  git add another-change-file-4.txt 
+  536  git commit --fixup :/real
+  537  git lg
+  538  git rebase -i --autosquash ccbf71b
+  539  git lg
+  540  git lg
+  541  git push
+  542  git lg
+  543  git checkout master
+  544  git push
+  545  git lg
+  546  git branch
+  547  history
+  548  git lg
+  549  git merge --squash update-another-change-file
+  550  git lg
+  551  git commit
+  552  git lg
+  553  git branch -d update-another-change-file
+  554  git lg
+  555  git push
+  556  git add README.md 
+  557  git commit -am "Update README: remove redundant text"
+  558  git commit --amend
+  559  git lg
+  560  git lg
+  561  git commit --amend
+  562  git commit --amend
+  563  git lg
+  564  git branch
+  565  git status
+  566  git reset HEAD forgot-to-add.text
+  567  git lg
+  568  git status
+  569  git add README.md 
+  570  git commit -am "Update REadme with change #3"
+  571  git status
+  572  git add forgot-to-add.text 
+  573  git status
+  574  git commit --amend
+  575  git lg
+  576  git status
+  577  git lg
+  578  git reset HEAD~
+  579  git lg
+  580  git status
+  581  git add forgot-to-add.text 
+  582  git add README.md 
+  583  git commit "Use undo commit command Head~"
+  584  git lg
+  585  git commit -m "Use undo commit command Head~"
+  586  git lg
+  587  git reset HEAD~
+  588  git status
+  589  history
+  590  history
+  591  git lg
+  592  git lg
+  593  git status
+  594  git checkout README.md
+  595  git status
+  596  clear
+  597  git lg
+  598  git push
+  599  git lg
+  600  git revert bb5ea4b
+  601  git lg
+  602  git reset HEAD~
+  603  git lg
+  604  git lg
+  605  git status
+  606  git add forgot-to-add.text 
+  607  git add README.md 
+  608  git status
+  609  git stash
+  610  git lg
+  611  git commit -m "Update Readme"
+  612  git add README.md 
+  613  git commit -m "Update readme"
+  614  git stash list
+  615  git lg
+  616  git stash pop
+  617  git stash
+  618  git stash list
+  619  git stash pop
+  620  less README.md 
+  621  git stash save "Update Readme with normal commit"
+  622  git stash
+  623  git stash list
+  624  history > history.txt
